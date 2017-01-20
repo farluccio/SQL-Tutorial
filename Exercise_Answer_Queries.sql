@@ -68,7 +68,7 @@ ON BA.BookId = Book.BookId
 WHERE AuthorName LIKE '%Stephen King%' AND BranchName = 'Central'
 
 --Now, create a stored procedure that will execute one or more of those queries, based on user
---choice. Stored procedure for #7.
+--choice. Stored procedure for #7. (final question)
 
 USE LibraryMgmnt
 GO

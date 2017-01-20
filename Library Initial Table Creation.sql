@@ -1,4 +1,4 @@
--- Initial Set-up of LibraryMgmnt Db
+-- Initial Set-up of LibraryMgmnt Db, used to set up table
 
 USE MASTER
 GO
